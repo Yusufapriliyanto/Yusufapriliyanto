@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yusufapriliyanto
+- I'm a student of Vocational High School of Gondang Wonopringgo, in major of Computer and Networking Enggineering.
 - 👀 I’m interested in Computer And Cyber Security 
-- 🌱 I’m currently learning Web Programing with Codeigniter 4 and Laravel 8 
-- 💞️ I’m looking to collaborate on ... 
 - 📫 You can reach me on: 
 - Whatsapp and Telegram: 0815-3568-551
 
