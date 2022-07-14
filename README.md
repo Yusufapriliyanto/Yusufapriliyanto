@@ -6,28 +6,24 @@
 - Instagram: @apriliyanto.yusuf
 - Facebook: Yusuf Apriliyanto
 
-Thing was learned:
-1. Programming Language: PHP, HTML, CSS (all in newbie level), Java Programming (include Swing)
-2. Web Framework: Codeigniter 4, Laravel 8 (all in newbie level)
-3. Web CMS: Wordpress (in intermediate level)
-4. Database: MariaDB, MySQL, PostgreSQL, SQLite (all in newbie level)
-5. Data Analysis with GNU PSPP (in newbie level)
-6. Networking with Cisco Packet Tracer and Mikrotik CHR (all in newbie level)
-7. Windows 7, 10, and 11 System Administrator (in newbie level)
-8. Linux Ubuntu and Kali Linux System Administrator (in newbie level)
+<h1> Thing was learned: </h1>
+<h2> Programming Language (in beginner level): </h2>
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,md,java&perline=3)](https://skillicons.dev)
+<h2> Web Framework (in beginner level): </h2>
+[![My Skills](https://skillicons.dev/icons?i=laravel,nextjs)](https://skillicons.dev)
+<h2> Web CMS (in intermediate level): </h2>
+[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
+<h2> Database (in beginner level): </h2>
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mysql&perline=3)](https://skillicons.dev)
+<h2> Other Skills (in beginner level): </h2>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,github,vercel,linux&perline=2)](https://skillicons.dev)
 
-Thing currently in my study plan:
-1. Upgrade skill was learned in past
-2. Advanced Java Programing
-3. Arduino Programming (for my research in future, because I interested in Journal Publication and Paper Submission)
-4. Assembly Programming (because I interesed in building kernel)
-5. VHDL Programming (because I interesed in CPU Logic)
-6. Flutter Mobile Development
-7. C++ Programming
-8. .NET Desktop Programming
-9. Python Programming
-10. Visual C++ Programing
-11. Visual C# Programming
-12. C# Programming
-13. Lua Programming (because i interested in Minetest Modding)
+<h1> Thing currently in my study plan: </h1>
+<h2> Programming Language: </h2>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,c,cs,cpp,ruby,py,r&perline=3)](https://skillicons.dev)
+<h2> Web Framework: </h2>
+[![My Skills](https://skillicons.dev/icons?i=react,nuxtjs,vue,&perline=2)](https://skillicons.dev)
+<h2> Other Skills: </h2>
+[![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,dotnet,flutter,tensorflow,unity,qt&perline=2)](https://skillicons.dev)
+
 <!--- Yusufapriliyanto/Yusufapriliyanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
