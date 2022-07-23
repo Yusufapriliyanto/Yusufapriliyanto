@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Yusufapriliyanto
+- Hi, I’m @Yusufapriliyanto
 - I'm a student of Vocational High School of Gondang Wonopringgo, in major of Computer and Networking Enggineering.
-- 👀 I’m interested in Computer And Cyber Security
-- 📫 You can reach me on: 
+- My hobby is reading
+- My dream is being an ethical hacker and scientist
+- You can reach me on: 
 - Whatsapp and Telegram: 0815-3568-551
 - Instagram: @apriliyanto.yusuf
 - Facebook: Yusuf Apriliyanto
